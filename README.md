@@ -18,7 +18,7 @@ DocLens is a powerful document analysis tool that uses Retrieval-Augmented Gener
 ┌─────────────────┐    ┌─────────────────┐    ┌─────────────────┐
 │   Streamlit     │    │   FastAPI       │    │   Groq LLM      │
 │   Frontend      │◄──►│   Backend       │◄──►│   API           │
-│   (Port 8000)   │    │   (Port 8000)   │    │                 │
+│   (Port 8005)   │    │   (Port 8000)   │    │                 │
 └─────────────────┘    └─────────────────┘    └─────────────────┘
 ```
 
