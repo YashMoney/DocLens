@@ -84,7 +84,7 @@ streamlit run streamlit_app.py
 
 ## 🌐 Access Points
 
-- **Frontend**: http://localhost:8501
+- **Frontend**: http://localhost:8000
 - **Backend API**: http://localhost:8000
 - **API Documentation**: http://localhost:8000/docs
 - **Health Check**: http://localhost:8000/health
@@ -114,7 +114,7 @@ streamlit run streamlit_app.py
 - **Model**: Uses Groq's `llama-3.1-8b-instant` for fast responses
 
 ### Frontend Settings
-- **Port**: Default 8501 (configurable in launcher)
+- **Port**: Default 8000 (configurable in launcher)
 - **Backend URL**: Configurable in sidebar
 - **API Key**: Optional authentication support
 
